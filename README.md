@@ -1,3 +1,7 @@
+Abel Flores		U150282	 205927
+Joan García		U149945	 205331
+Ramon Vallès	U149943	 205419
+
 #LAB 1
 
 
